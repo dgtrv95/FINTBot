@@ -34,7 +34,7 @@ def error(update: Update, context: CallbackContext) -> None:
 
 def main() -> None:
     # Вставьте сюда ваш токен Telegram Bot API
-    token = 'YOUR_TELEGRAM_BOT_TOKEN'
+    token = '7466076481:AAHA2cmHsrfqlcYbrrrt00VBnh41jMHxtVE'
     updater = Updater(token)
 
     dispatcher = updater.dispatcher
